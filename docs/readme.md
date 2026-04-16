@@ -13,7 +13,7 @@ The project demonstrates:
 * Deep learning model building
 * Model training
 * Model evaluation
-* Visualization of results
+* Visualization of results 
 
 ---
 
